@@ -2,7 +2,7 @@
 Vox_IEMO_REVISION/*
 /paper
 *.png
-*.ipynb
+분석*.ipynb
 main_mixer.py
 result.csv
 !image/*.png
