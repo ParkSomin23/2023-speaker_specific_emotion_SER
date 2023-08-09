@@ -1,2 +1,9 @@
 *.pt
 Vox_IEMO_REVISION/*
+/paper
+*.png
+분석*
+main_mixer.py
+result.csv
+!image/*.png
+.DS_Store
